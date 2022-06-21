@@ -16,7 +16,6 @@ public class Main {
 		int tc=sc.nextInt();
 		for(int i=0; i<tc;i++) {
 			store_ox=sc.next();
-			
 			//string to char array
 			char[] arr=store_ox.toCharArray();
 			
