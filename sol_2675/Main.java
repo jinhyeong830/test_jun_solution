@@ -14,7 +14,7 @@ public class Main {
 			
 			for(int j=0; j<carr.length ;j++) {
 				for(int k=0; k<r;k++) {
-					System.out.print(carr[j]);//for문 세개 써서 맘에 안드는데..
+					System.out.print(carr[j]);//for문 세개 써서 맘에 안드는데 다른 방법 찾아보기!
 				}
 			}
 			System.out.println();
