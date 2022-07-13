@@ -1,5 +1,5 @@
 package silver_sol_1978;
-
+//입력받은 소수의 개수 찾기
 import java.util.Scanner;
 public class Main {
 
@@ -20,6 +20,7 @@ public class Main {
 		System.out.println(count);
 	}
 
+	//함수 이용
 	public static boolean sosu(int n) {
 
 		int cnt = 0;
@@ -28,7 +29,6 @@ public class Main {
 				cnt++;
 		}
 		if (cnt == 2)
-			
 			return true;
 		else
 			return false;
